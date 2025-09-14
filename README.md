@@ -51,3 +51,18 @@ Ensure the following are installed:
    git clone https://github.com/your-username/RevolutionShootingGame.git
 
 <img width="792" height="594" alt="image" src="https://github.com/user-attachments/assets/fa651fae-19f6-4d76-a29c-a326a13993bf" />
+
+<img width="801" height="583" alt="image" src="https://github.com/user-attachments/assets/3c03af17-6281-43ab-9d80-8a368790ba6c" />
+
+<img width="793" height="594" alt="image" src="https://github.com/user-attachments/assets/e6705ba2-4e55-4267-baa1-3b255d1d9f54" />
+
+<img width="796" height="595" alt="image" src="https://github.com/user-attachments/assets/71f17e0b-c512-4756-ac16-3fc5a776b05d" />
+
+<img width="793" height="585" alt="image" src="https://github.com/user-attachments/assets/f00db53b-7ac7-4946-bc96-8fe739a7440e" />
+
+<img width="686" height="589" alt="image" src="https://github.com/user-attachments/assets/87382d00-e544-45ac-a840-b33fe1199961" />
+
+
+
+
+
